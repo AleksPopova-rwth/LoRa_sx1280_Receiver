@@ -8,7 +8,7 @@ The `LoRa_sx1280_Receiver` project implements a receiver using the SX1280 transc
 
 - LoRa signal reception using the SX1280 module
 - Custom library implementation (no use of Semtech's LoRa library)
-- Suitable for IoT and long-range communication projects
+- Suitable for long-range communication projects
 
 ## Setup
 
