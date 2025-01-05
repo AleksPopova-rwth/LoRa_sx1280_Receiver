@@ -1,0 +1,10 @@
+18:12:06 **** Incremental Build of configuration Debug for project BeginfromScratch_446re ****
+make -j8 all 
+arm-none-eabi-size  BeginfromScratch_446re.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37000	    472	   2072	  39544	   9a78	BeginfromScratch_446re.elf
+Finished building: default.size.stdout
+ 
+
+18:12:06 Build Finished. 0 errors, 0 warnings. (took 358ms)
+

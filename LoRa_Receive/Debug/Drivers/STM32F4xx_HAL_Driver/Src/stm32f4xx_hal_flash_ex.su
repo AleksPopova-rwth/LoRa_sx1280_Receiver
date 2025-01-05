@@ -1,0 +1,22 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:160:19:HAL_StatusTypeDef HAL_FLASHEx_Erase(FLASH_EraseInitTypeDef*, uint32_t*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:231:19:HAL_StatusTypeDef HAL_FLASHEx_Erase_IT(FLASH_EraseInitTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:281:19:HAL_StatusTypeDef HAL_FLASHEx_OBProgram(FLASH_OBProgramInitTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:340:6:void HAL_FLASHEx_OBGetConfig(FLASH_OBProgramInitTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:369:19:HAL_StatusTypeDef HAL_FLASHEx_AdvOBProgram(FLASH_AdvOBProgramInitTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:425:6:void HAL_FLASHEx_AdvOBGetConfig(FLASH_AdvOBProgramInitTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:457:19:HAL_StatusTypeDef HAL_FLASHEx_OB_SelectPCROP()	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:482:19:HAL_StatusTypeDef HAL_FLASHEx_OB_DeSelectPCROP()	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:948:13:void FLASH_MassErase(uint8_t, uint32_t)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:977:6:void FLASH_Erase_Sector(uint32_t, uint8_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1027:26:HAL_StatusTypeDef FLASH_OB_EnableWRP(uint32_t, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1063:26:HAL_StatusTypeDef FLASH_OB_DisableWRP(uint32_t, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1096:26:HAL_StatusTypeDef FLASH_OB_EnablePCROP(uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1124:26:HAL_StatusTypeDef FLASH_OB_DisablePCROP(uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1157:26:HAL_StatusTypeDef FLASH_OB_RDP_LevelConfig(uint8_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1191:26:HAL_StatusTypeDef FLASH_OB_UserConfig(uint8_t, uint8_t, uint8_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1226:26:HAL_StatusTypeDef FLASH_OB_BOR_LevelConfig(uint8_t)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1244:16:uint8_t FLASH_OB_GetUser()	4	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1254:17:uint16_t FLASH_OB_GetWRP()	4	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1268:16:uint8_t FLASH_OB_GetRDP()	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1296:16:uint8_t FLASH_OB_GetBOR()	4	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:1306:6:void FLASH_FlushCaches()	4	static

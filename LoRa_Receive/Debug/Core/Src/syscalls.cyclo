@@ -1,0 +1,18 @@
+../Core/Src/syscalls.c:44:6:void initialise_monitor_handles()	1
+../Core/Src/syscalls.c:48:5:int _getpid()	1
+../Core/Src/syscalls.c:53:5:int _kill(int, int)	1
+../Core/Src/syscalls.c:61:6:void _exit(int)	1
+../Core/Src/syscalls.c:67:27:int _read(int, char*, int)	2
+../Core/Src/syscalls.c:80:27:int _write(int, char*, int)	2
+../Core/Src/syscalls.c:92:5:int _close(int)	1
+../Core/Src/syscalls.c:99:5:int _fstat(int, stat*)	1
+../Core/Src/syscalls.c:106:5:int _isatty(int)	1
+../Core/Src/syscalls.c:112:5:int _lseek(int, int, int)	1
+../Core/Src/syscalls.c:120:5:)	1
+../Core/Src/syscalls.c:128:5:int _wait(int*)	1
+../Core/Src/syscalls.c:135:5:int _unlink(char*)	1
+../Core/Src/syscalls.c:142:5:int _times(tms*)	1
+../Core/Src/syscalls.c:148:5:int _stat(char*, stat*)	1
+../Core/Src/syscalls.c:155:5:int _link(char*, char*)	1
+../Core/Src/syscalls.c:162:5:int _fork()	1
+../Core/Src/syscalls.c:168:5:int _execve(char*, char**, char**)	1

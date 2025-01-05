@@ -1,0 +1,4 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c:100:19:HAL_StatusTypeDef HAL_DMAEx_MultiBufferStart(DMA_HandleTypeDef*, uint32_t, uint32_t, uint32_t, uint32_t)	32	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c:154:19:HAL_StatusTypeDef HAL_DMAEx_MultiBufferStart_IT(DMA_HandleTypeDef*, uint32_t, uint32_t, uint32_t, uint32_t)	32	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c:239:19:HAL_StatusTypeDef HAL_DMAEx_ChangeMemory(DMA_HandleTypeDef*, uint32_t, HAL_DMA_MemoryTypeDef)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c:276:13:void DMA_MultiBufferSetConfig(DMA_HandleTypeDef*, uint32_t, uint32_t, uint32_t)	24	static

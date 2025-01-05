@@ -1,0 +1,10 @@
+13:58:52 **** Incremental Build of configuration Debug for project LoRa_Transmit ****
+make -j8 all 
+arm-none-eabi-size  LoRa_Transmit.elf 
+   text	   data	    bss	    dec	    hex	filename
+  38800	    472	   2224	  41496	   a218	LoRa_Transmit.elf
+Finished building: default.size.stdout
+ 
+
+13:58:52 Build Finished. 0 errors, 0 warnings. (took 315ms)
+

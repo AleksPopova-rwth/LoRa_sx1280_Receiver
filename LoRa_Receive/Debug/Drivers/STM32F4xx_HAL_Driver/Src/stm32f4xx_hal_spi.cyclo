@@ -1,0 +1,55 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:311:19:HAL_StatusTypeDef HAL_SPI_Init(SPI_HandleTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:437:19:HAL_StatusTypeDef HAL_SPI_DeInit(SPI_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:481:13:void HAL_SPI_MspInit(SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:497:13:void HAL_SPI_MspDeInit(SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:769:19:HAL_StatusTypeDef HAL_SPI_Transmit(SPI_HandleTypeDef*, const uint8_t*, uint16_t, uint32_t)	27
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:935:19:HAL_StatusTypeDef HAL_SPI_Receive(SPI_HandleTypeDef*, uint8_t*, uint16_t, uint32_t)	24
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:1135:19:HAL_StatusTypeDef HAL_SPI_TransmitReceive(SPI_HandleTypeDef*, const uint8_t*, uint8_t*, uint16_t, uint32_t)	46
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:1385:19:HAL_StatusTypeDef HAL_SPI_Transmit_IT(SPI_HandleTypeDef*, const uint8_t*, uint16_t)	8
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:1467:19:HAL_StatusTypeDef HAL_SPI_Receive_IT(SPI_HandleTypeDef*, uint8_t*, uint16_t)	10
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:1558:19:HAL_StatusTypeDef HAL_SPI_TransmitReceive_IT(SPI_HandleTypeDef*, const uint8_t*, uint8_t*, uint16_t)	12
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:1644:19:HAL_StatusTypeDef HAL_SPI_Transmit_DMA(SPI_HandleTypeDef*, const uint8_t*, uint16_t)	8
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:1748:19:HAL_StatusTypeDef HAL_SPI_Receive_DMA(SPI_HandleTypeDef*, uint8_t*, uint16_t)	10
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:1858:19:HAL_StatusTypeDef HAL_SPI_TransmitReceive_DMA(SPI_HandleTypeDef*, const uint8_t*, uint8_t*, uint16_t)	14
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2000:19:HAL_StatusTypeDef HAL_SPI_Abort(SPI_HandleTypeDef*)	16
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2145:19:HAL_StatusTypeDef HAL_SPI_Abort_IT(SPI_HandleTypeDef*)	19
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2306:19:HAL_StatusTypeDef HAL_SPI_DMAPause(SPI_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2326:19:HAL_StatusTypeDef HAL_SPI_DMAResume(SPI_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2346:19:HAL_StatusTypeDef HAL_SPI_DMAStop(SPI_HandleTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2386:6:void HAL_SPI_IRQHandler(SPI_HandleTypeDef*)	21
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2493:13:void HAL_SPI_TxCpltCallback(SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2509:13:void HAL_SPI_RxCpltCallback(SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2525:13:void HAL_SPI_TxRxCpltCallback(SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2541:13:void HAL_SPI_TxHalfCpltCallback(SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2557:13:void HAL_SPI_RxHalfCpltCallback(SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2573:13:void HAL_SPI_TxRxHalfCpltCallback(SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2589:13:void HAL_SPI_ErrorCallback(SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2607:13:void HAL_SPI_AbortCpltCallback(SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2642:22:HAL_SPI_StateTypeDef HAL_SPI_GetState(const SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2654:10:uint32_t HAL_SPI_GetError(const SPI_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2679:13:void SPI_DMATransmitCplt(DMA_HandleTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2736:13:void SPI_DMAReceiveCplt(DMA_HandleTypeDef*)	6
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2825:13:void SPI_DMATransmitReceiveCplt(DMA_HandleTypeDef*)	4
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2905:13:void SPI_DMAHalfTransmitCplt(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2923:13:void SPI_DMAHalfReceiveCplt(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2941:13:void SPI_DMAHalfTransmitReceiveCplt(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2959:13:void SPI_DMAError(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:2982:13:void SPI_DMAAbortOnError(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3004:13:void SPI_DMATxAbortCallback(DMA_HandleTypeDef*)	6
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3069:13:void SPI_DMARxAbortCallback(DMA_HandleTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3128:13:void SPI_2linesRxISR_8BIT(__SPI_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3191:13:void SPI_2linesTxISR_8BIT(__SPI_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3227:13:void SPI_2linesRxISR_16BIT(__SPI_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3283:13:void SPI_2linesTxISR_16BIT(__SPI_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3343:13:void SPI_RxISR_8BIT(__SPI_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3399:13:void SPI_RxISR_16BIT(__SPI_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3432:13:void SPI_TxISR_8BIT(__SPI_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3457:13:void SPI_TxISR_16BIT(__SPI_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3487:26:HAL_StatusTypeDef SPI_WaitFlagStateUntilTimeout(SPI_HandleTypeDef*, uint32_t, FlagStatus, uint32_t, uint32_t)	12
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3554:26:HAL_StatusTypeDef SPI_EndRxTransaction(SPI_HandleTypeDef*, uint32_t, uint32_t)	9
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3604:26:HAL_StatusTypeDef SPI_EndRxTxTransaction(SPI_HandleTypeDef*, uint32_t, uint32_t)	6
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3651:13:void SPI_CloseRxTx_ISR(SPI_HandleTypeDef*)	7
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3746:13:void SPI_CloseRx_ISR(SPI_HandleTypeDef*)	4
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3809:13:void SPI_CloseTx_ISR(SPI_HandleTypeDef*)	6
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3870:13:void SPI_AbortRx_ISR(SPI_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c:3906:13:void SPI_AbortTx_ISR(SPI_HandleTypeDef*)	1

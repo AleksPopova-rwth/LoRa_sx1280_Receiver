@@ -1,0 +1,62 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:357:19:HAL_StatusTypeDef HAL_UART_Init(UART_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:435:19:HAL_StatusTypeDef HAL_HalfDuplex_Init(UART_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:509:19:HAL_StatusTypeDef HAL_LIN_Init(UART_HandleTypeDef*, uint32_t)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:591:19:HAL_StatusTypeDef HAL_MultiProcessor_Init(UART_HandleTypeDef*, uint8_t, uint32_t)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:669:19:HAL_StatusTypeDef HAL_UART_DeInit(UART_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:715:13:void HAL_UART_MspInit(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:730:13:void HAL_UART_MspDeInit(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1135:19:HAL_StatusTypeDef HAL_UART_Transmit(UART_HandleTypeDef*, const uint8_t*, uint16_t, uint32_t)	10
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1221:19:HAL_StatusTypeDef HAL_UART_Receive(UART_HandleTypeDef*, uint8_t*, uint16_t, uint32_t)	12
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1308:19:HAL_StatusTypeDef HAL_UART_Transmit_IT(UART_HandleTypeDef*, const uint8_t*, uint16_t)	4
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1347:19:HAL_StatusTypeDef HAL_UART_Receive_IT(UART_HandleTypeDef*, uint8_t*, uint16_t)	4
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1379:19:HAL_StatusTypeDef HAL_UART_Transmit_DMA(UART_HandleTypeDef*, const uint8_t*, uint16_t)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1441:19:HAL_StatusTypeDef HAL_UART_Receive_DMA(UART_HandleTypeDef*, uint8_t*, uint16_t)	4
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1468:19:HAL_StatusTypeDef HAL_UART_DMAPause(UART_HandleTypeDef*)	11
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1499:19:HAL_StatusTypeDef HAL_UART_DMAResume(UART_HandleTypeDef*)	8
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1533:19:HAL_StatusTypeDef HAL_UART_DMAStop(UART_HandleTypeDef*)	11
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1588:19:HAL_StatusTypeDef HAL_UARTEx_ReceiveToIdle(UART_HandleTypeDef*, uint8_t*, uint16_t, uint16_t*, uint32_t)	18
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1713:19:HAL_StatusTypeDef HAL_UARTEx_ReceiveToIdle_IT(UART_HandleTypeDef*, uint8_t*, uint16_t)	7
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1773:19:HAL_StatusTypeDef HAL_UARTEx_ReceiveToIdle_DMA(UART_HandleTypeDef*, uint8_t*, uint16_t)	7
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1841:29:HAL_UART_RxEventTypeTypeDef HAL_UARTEx_GetRxEventType(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1859:19:HAL_StatusTypeDef HAL_UART_Abort(UART_HandleTypeDef*)	15
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1948:19:HAL_StatusTypeDef HAL_UART_AbortTransmit(UART_HandleTypeDef*)	7
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1999:19:HAL_StatusTypeDef HAL_UART_AbortReceive(UART_HandleTypeDef*)	10
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2060:19:HAL_StatusTypeDef HAL_UART_Abort_IT(UART_HandleTypeDef*)	18
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2195:19:HAL_StatusTypeDef HAL_UART_AbortTransmit_IT(UART_HandleTypeDef*)	6
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2272:19:HAL_StatusTypeDef HAL_UART_AbortReceive_IT(UART_HandleTypeDef*)	9
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2350:6:void HAL_UART_IRQHandler(UART_HandleTypeDef*)	48
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2592:13:void HAL_UART_TxCpltCallback(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2607:13:void HAL_UART_TxHalfCpltCallback(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2622:13:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2637:13:void HAL_UART_RxHalfCpltCallback(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2652:13:void HAL_UART_ErrorCallback(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2666:13:void HAL_UART_AbortCpltCallback(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2681:13:void HAL_UART_AbortTransmitCpltCallback(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2696:13:void HAL_UART_AbortReceiveCpltCallback(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2713:13:void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef*, uint16_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2753:19:HAL_StatusTypeDef HAL_LIN_SendBreak(UART_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2780:19:HAL_StatusTypeDef HAL_MultiProcessor_EnterMuteMode(UART_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2808:19:HAL_StatusTypeDef HAL_MultiProcessor_ExitMuteMode(UART_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2836:19:HAL_StatusTypeDef HAL_HalfDuplex_EnableTransmitter(UART_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2871:19:HAL_StatusTypeDef HAL_HalfDuplex_EnableReceiver(UART_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2928:23:HAL_UART_StateTypeDef HAL_UART_GetState(const UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2943:10:uint32_t HAL_UART_GetError(const UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:2988:13:void UART_DMATransmitCplt(DMA_HandleTypeDef*)	4
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3023:13:void UART_DMATxHalfCplt(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3042:13:void UART_DMAReceiveCplt(DMA_HandleTypeDef*)	8
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3104:13:void UART_DMARxHalfCplt(DMA_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3143:13:void UART_DMAError(DMA_HandleTypeDef*)	7
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3185:26:HAL_StatusTypeDef UART_WaitOnFlagUntilTimeout(UART_HandleTypeDef*, uint32_t, FlagStatus, uint32_t, uint32_t)	12
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3236:19:HAL_StatusTypeDef UART_Start_Receive_IT(UART_HandleTypeDef*, uint8_t*, uint16_t)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3271:19:HAL_StatusTypeDef UART_Start_Receive_DMA(UART_HandleTypeDef*, uint8_t*, uint16_t)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3321:13:void UART_EndTxTransfer(UART_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3335:13:void UART_EndRxTransfer(UART_HandleTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3359:13:void UART_DMAAbortOnError(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3383:13:void UART_DMATxAbortCallback(DMA_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3429:13:void UART_DMARxAbortCallback(DMA_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3475:13:void UART_DMATxOnlyAbortCallback(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3503:13:void UART_DMARxOnlyAbortCallback(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3529:26:HAL_StatusTypeDef UART_Transmit_IT(UART_HandleTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3569:26:HAL_StatusTypeDef UART_EndTransmit_IT(UART_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3594:26:HAL_StatusTypeDef UART_Receive_IT(UART_HandleTypeDef*)	11
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3695:13:void UART_SetConfig(UART_HandleTypeDef*)	4

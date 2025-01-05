@@ -1,0 +1,11 @@
+2025-01-03 13:21:36,505 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-01-03 13:21:38,511 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-01-03 13:23:00,849 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-01-03 13:48:37,862 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-01-03 13:48:39,866 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-01-03 13:48:39,950 [ERROR] ConfigurationRetriever:142 - IOException on connection: No route to host
+2025-01-03 13:50:59,651 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-01-03 13:51:03,917 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-01-03 13:51:40,444 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-01-03 13:51:42,448 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-01-03 13:53:09,674 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
