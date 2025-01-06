@@ -1,10 +1,12 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PLN_F446 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_429ZI Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:OBJ_F446 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_test_transmition Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:OBJ_SPHV2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:BeginfromScratch_446re Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_446RE,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_Transmit Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_Receive Debug
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_446RE,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_Transmit Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:BeginfromScratch_446re\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:BeginfromScratch_446re\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_429ZI\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_429ZI\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_Receive\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_Transmit\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LoRa_test_transmition\ Debug/activeLaunchMode=debug

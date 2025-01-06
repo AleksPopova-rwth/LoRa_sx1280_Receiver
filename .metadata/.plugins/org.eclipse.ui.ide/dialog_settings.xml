@@ -9,6 +9,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/sasha/STM_Projects/SpaceTeam/LoRa/LoRa_Transmit"/>
+			<item value="/home/sasha/STM_Projects/SpaceTeam/LoRa/LoRa_Receive"/>
+			<item value="/home/sasha/Downloads/SX1280-main/example/OBJ_L476"/>
+			<item value="/home/sasha/Downloads/SX1280-main/example/OBJ_SPHV2"/>
 			<item value="/home/sasha/STM_Projects/SpaceTeam/LoRa"/>
 		</list>
 	</section>

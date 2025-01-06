@@ -1,4 +1,4 @@
-13:50:08 **** Incremental Build of configuration Debug for project OBJ_SPHV2 ****
+01:21:54 **** Incremental Build of configuration Debug for project OBJ_SPHV2 ****
 make -j8 all 
 arm-none-eabi-size  OBJ_SPHV2.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size  OBJ_SPHV2.elf
 Finished building: default.size.stdout
  
 
-13:50:08 Build Finished. 0 errors, 0 warnings. (took 314ms)
+01:21:54 Build Finished. 0 errors, 0 warnings. (took 184ms)
 

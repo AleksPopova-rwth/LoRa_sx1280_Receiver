@@ -1,0 +1,119 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:266:19:HAL_StatusTypeDef HAL_TIM_Base_Init(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:326:19:HAL_StatusTypeDef HAL_TIM_Base_DeInit(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:369:13:void HAL_TIM_Base_MspInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:384:13:void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:400:19:HAL_StatusTypeDef HAL_TIM_Base_Start(TIM_HandleTypeDef*)	11
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:439:19:HAL_StatusTypeDef HAL_TIM_Base_Stop(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:459:19:HAL_StatusTypeDef HAL_TIM_Base_Start_IT(TIM_HandleTypeDef*)	11
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:501:19:HAL_StatusTypeDef HAL_TIM_Base_Stop_IT(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:526:19:HAL_StatusTypeDef HAL_TIM_Base_Start_DMA(TIM_HandleTypeDef*, const uint32_t*, uint16_t)	15
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:595:19:HAL_StatusTypeDef HAL_TIM_Base_Stop_DMA(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:650:19:HAL_StatusTypeDef HAL_TIM_OC_Init(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:710:19:HAL_StatusTypeDef HAL_TIM_OC_DeInit(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:753:13:void HAL_TIM_OC_MspInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:768:13:void HAL_TIM_OC_MspDeInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:789:19:HAL_StatusTypeDef HAL_TIM_OC_Start(TIM_HandleTypeDef*, uint32_t)	20
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:843:19:HAL_StatusTypeDef HAL_TIM_OC_Stop(TIM_HandleTypeDef*, uint32_t)	11
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:878:19:HAL_StatusTypeDef HAL_TIM_OC_Start_IT(TIM_HandleTypeDef*, uint32_t)	25
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:971:19:HAL_StatusTypeDef HAL_TIM_OC_Stop_IT(TIM_HandleTypeDef*, uint32_t)	16
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1048:19:HAL_StatusTypeDef HAL_TIM_OC_Start_DMA(TIM_HandleTypeDef*, uint32_t, const uint32_t*, uint16_t)	35
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1212:19:HAL_StatusTypeDef HAL_TIM_OC_Stop_DMA(TIM_HandleTypeDef*, uint32_t)	16
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1315:19:HAL_StatusTypeDef HAL_TIM_PWM_Init(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1375:19:HAL_StatusTypeDef HAL_TIM_PWM_DeInit(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1418:13:void HAL_TIM_PWM_MspInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1433:13:void HAL_TIM_PWM_MspDeInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1454:19:HAL_StatusTypeDef HAL_TIM_PWM_Start(TIM_HandleTypeDef*, uint32_t)	20
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1508:19:HAL_StatusTypeDef HAL_TIM_PWM_Stop(TIM_HandleTypeDef*, uint32_t)	11
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1543:19:HAL_StatusTypeDef HAL_TIM_PWM_Start_IT(TIM_HandleTypeDef*, uint32_t)	25
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1636:19:HAL_StatusTypeDef HAL_TIM_PWM_Stop_IT(TIM_HandleTypeDef*, uint32_t)	16
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1713:19:HAL_StatusTypeDef HAL_TIM_PWM_Start_DMA(TIM_HandleTypeDef*, uint32_t, const uint32_t*, uint16_t)	35
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1876:19:HAL_StatusTypeDef HAL_TIM_PWM_Stop_DMA(TIM_HandleTypeDef*, uint32_t)	16
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:1979:19:HAL_StatusTypeDef HAL_TIM_IC_Init(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2039:19:HAL_StatusTypeDef HAL_TIM_IC_DeInit(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2082:13:void HAL_TIM_IC_MspInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2097:13:void HAL_TIM_IC_MspDeInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2118:19:HAL_StatusTypeDef HAL_TIM_IC_Start(TIM_HandleTypeDef*, uint32_t)	24
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2170:19:HAL_StatusTypeDef HAL_TIM_IC_Stop(TIM_HandleTypeDef*, uint32_t)	9
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2200:19:HAL_StatusTypeDef HAL_TIM_IC_Start_IT(TIM_HandleTypeDef*, uint32_t)	29
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2292:19:HAL_StatusTypeDef HAL_TIM_IC_Stop_IT(TIM_HandleTypeDef*, uint32_t)	14
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2364:19:HAL_StatusTypeDef HAL_TIM_IC_Start_DMA(TIM_HandleTypeDef*, uint32_t, uint32_t*, uint16_t)	36
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2523:19:HAL_StatusTypeDef HAL_TIM_IC_Stop_DMA(TIM_HandleTypeDef*, uint32_t)	14
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2628:19:HAL_StatusTypeDef HAL_TIM_OnePulse_Init(TIM_HandleTypeDef*, uint32_t)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2697:19:HAL_StatusTypeDef HAL_TIM_OnePulse_DeInit(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2742:13:void HAL_TIM_OnePulse_MspInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2757:13:void HAL_TIM_OnePulse_MspDeInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2777:19:HAL_StatusTypeDef HAL_TIM_OnePulse_Start(TIM_HandleTypeDef*, uint32_t)	8
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2834:19:HAL_StatusTypeDef HAL_TIM_OnePulse_Stop(TIM_HandleTypeDef*, uint32_t)	8
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2877:19:HAL_StatusTypeDef HAL_TIM_OnePulse_Start_IT(TIM_HandleTypeDef*, uint32_t)	8
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:2940:19:HAL_StatusTypeDef HAL_TIM_OnePulse_Stop_IT(TIM_HandleTypeDef*, uint32_t)	8
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3019:19:HAL_StatusTypeDef HAL_TIM_Encoder_Init(TIM_HandleTypeDef*, const TIM_Encoder_InitTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3134:19:HAL_StatusTypeDef HAL_TIM_Encoder_DeInit(TIM_HandleTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3179:13:void HAL_TIM_Encoder_MspInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3194:13:void HAL_TIM_Encoder_MspDeInit(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3214:19:HAL_StatusTypeDef HAL_TIM_Encoder_Start(TIM_HandleTypeDef*, uint32_t)	13
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3308:19:HAL_StatusTypeDef HAL_TIM_Encoder_Stop(TIM_HandleTypeDef*, uint32_t)	13
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3368:19:HAL_StatusTypeDef HAL_TIM_Encoder_Start_IT(TIM_HandleTypeDef*, uint32_t)	13
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3468:19:HAL_StatusTypeDef HAL_TIM_Encoder_Stop_IT(TIM_HandleTypeDef*, uint32_t)	13
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3533:19:HAL_StatusTypeDef HAL_TIM_Encoder_Start_DMA(TIM_HandleTypeDef*, uint32_t, uint32_t*, uint32_t*, uint16_t)	32
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3746:19:HAL_StatusTypeDef HAL_TIM_Encoder_Stop_DMA(TIM_HandleTypeDef*, uint32_t)	13
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:3823:6:void HAL_TIM_IRQHandler(TIM_HandleTypeDef*)	21
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:4041:19:HAL_StatusTypeDef HAL_TIM_OC_ConfigChannel(TIM_HandleTypeDef*, const TIM_OC_InitTypeDef*, uint32_t)	6
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:4120:19:HAL_StatusTypeDef HAL_TIM_IC_ConfigChannel(TIM_HandleTypeDef*, const TIM_IC_InitTypeDef*, uint32_t)	6
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:4219:19:HAL_StatusTypeDef HAL_TIM_PWM_ConfigChannel(TIM_HandleTypeDef*, const TIM_OC_InitTypeDef*, uint32_t)	6
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:4333:19:HAL_StatusTypeDef HAL_TIM_OnePulse_ConfigChannel(TIM_HandleTypeDef*, TIM_OnePulse_InitTypeDef*, uint32_t, uint32_t)	8
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:4481:19:HAL_StatusTypeDef HAL_TIM_DMABurst_WriteStart(TIM_HandleTypeDef*, uint32_t, uint32_t, const uint32_t*, uint32_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:4534:19:HAL_StatusTypeDef HAL_TIM_DMABurst_MultiWriteStart(TIM_HandleTypeDef*, uint32_t, uint32_t, const uint32_t*, uint32_t, uint32_t)	25
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:4718:19:HAL_StatusTypeDef HAL_TIM_DMABurst_WriteStop(TIM_HandleTypeDef*, uint32_t)	14
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:4819:19:HAL_StatusTypeDef HAL_TIM_DMABurst_ReadStart(TIM_HandleTypeDef*, uint32_t, uint32_t, uint32_t*, uint32_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:4870:19:HAL_StatusTypeDef HAL_TIM_DMABurst_MultiReadStart(TIM_HandleTypeDef*, uint32_t, uint32_t, uint32_t*, uint32_t, uint32_t)	25
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5054:19:HAL_StatusTypeDef HAL_TIM_DMABurst_ReadStop(TIM_HandleTypeDef*, uint32_t)	14
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5137:19:HAL_StatusTypeDef HAL_TIM_GenerateEvent(TIM_HandleTypeDef*, uint32_t)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5174:19:HAL_StatusTypeDef HAL_TIM_ConfigOCrefClear(TIM_HandleTypeDef*, const TIM_ClearInputConfigTypeDef*, uint32_t)	14
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5304:19:HAL_StatusTypeDef HAL_TIM_ConfigClockSource(TIM_HandleTypeDef*, const TIM_ClockConfigTypeDef*)	20
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5458:19:HAL_StatusTypeDef HAL_TIM_ConfigTI1Input(TIM_HandleTypeDef*, uint32_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5490:19:HAL_StatusTypeDef HAL_TIM_SlaveConfigSynchro(TIM_HandleTypeDef*, const TIM_SlaveConfigTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5530:19:HAL_StatusTypeDef HAL_TIM_SlaveConfigSynchro_IT(TIM_HandleTypeDef*, const TIM_SlaveConfigTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5573:10:uint32_t HAL_TIM_ReadCapturedValue(const TIM_HandleTypeDef*, uint32_t)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5657:13:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5672:13:void HAL_TIM_PeriodElapsedHalfCpltCallback(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5687:13:void HAL_TIM_OC_DelayElapsedCallback(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5702:13:void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5717:13:void HAL_TIM_IC_CaptureHalfCpltCallback(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5732:13:void HAL_TIM_PWM_PulseFinishedCallback(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5747:13:void HAL_TIM_PWM_PulseFinishedHalfCpltCallback(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5762:13:void HAL_TIM_TriggerCallback(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5777:13:void HAL_TIM_TriggerHalfCpltCallback(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:5792:13:void HAL_TIM_ErrorCallback(TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6339:22:HAL_TIM_StateTypeDef HAL_TIM_Base_GetState(const TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6349:22:HAL_TIM_StateTypeDef HAL_TIM_OC_GetState(const TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6359:22:HAL_TIM_StateTypeDef HAL_TIM_PWM_GetState(const TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6369:22:HAL_TIM_StateTypeDef HAL_TIM_IC_GetState(const TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6379:22:HAL_TIM_StateTypeDef HAL_TIM_OnePulse_GetState(const TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6389:22:HAL_TIM_StateTypeDef HAL_TIM_Encoder_GetState(const TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6399:23:HAL_TIM_ActiveChannel HAL_TIM_GetActiveChannel(const TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6417:29:HAL_TIM_ChannelStateTypeDef HAL_TIM_GetChannelState(const TIM_HandleTypeDef*, uint32_t)	4
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6434:30:HAL_TIM_DMABurstStateTypeDef HAL_TIM_DMABurstState(const TIM_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6459:6:void TIM_DMAError(DMA_HandleTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6502:13:void TIM_DMADelayPulseCplt(DMA_HandleTypeDef*)	9
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6561:6:void TIM_DMADelayPulseHalfCplt(DMA_HandleTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6600:6:void TIM_DMACaptureCplt(DMA_HandleTypeDef*)	9
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6663:6:void TIM_DMACaptureHalfCplt(DMA_HandleTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6702:13:void TIM_DMAPeriodElapsedCplt(DMA_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6723:13:void TIM_DMAPeriodElapsedHalfCplt(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6739:13:void TIM_DMATriggerCplt(DMA_HandleTypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6760:13:void TIM_DMATriggerHalfCplt(DMA_HandleTypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6777:6:void TIM_Base_SetConfig(TIM_TypeDef*, const TIM_Base_InitTypeDef*)	22
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6832:13:void TIM_OC1_SetConfig(TIM_TypeDef*, const TIM_OC_InitTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6908:6:void TIM_OC2_SetConfig(TIM_TypeDef*, const TIM_OC_InitTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:6984:13:void TIM_OC3_SetConfig(TIM_TypeDef*, const TIM_OC_InitTypeDef*)	5
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7059:13:void TIM_OC4_SetConfig(TIM_TypeDef*, const TIM_OC_InitTypeDef*)	3
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7120:26:HAL_StatusTypeDef TIM_SlaveTimer_SetConfig(TIM_HandleTypeDef*, const TIM_SlaveConfigTypeDef*)	16
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7254:6:void TIM_TI1_SetConfig(TIM_TypeDef*, uint32_t, uint32_t, uint32_t)	10
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7301:13:void TIM_TI1_ConfigInputStage(TIM_TypeDef*, uint32_t, uint32_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7344:13:void TIM_TI2_SetConfig(TIM_TypeDef*, uint32_t, uint32_t, uint32_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7384:13:void TIM_TI2_ConfigInputStage(TIM_TypeDef*, uint32_t, uint32_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7427:13:void TIM_TI3_SetConfig(TIM_TypeDef*, uint32_t, uint32_t, uint32_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7475:13:void TIM_TI4_SetConfig(TIM_TypeDef*, uint32_t, uint32_t, uint32_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7518:13:void TIM_ITRx_SetConfig(TIM_TypeDef*, uint32_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7548:6:void TIM_ETR_SetConfig(TIM_TypeDef*, uint32_t, uint32_t, uint32_t)	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:7578:6:void TIM_CCxChannelCmd(TIM_TypeDef*, uint32_t, uint32_t)	1

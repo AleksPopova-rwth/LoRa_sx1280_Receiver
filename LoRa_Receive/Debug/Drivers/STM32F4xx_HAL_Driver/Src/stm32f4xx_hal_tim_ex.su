@@ -1,0 +1,42 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:138:19:HAL_StatusTypeDef HAL_TIMEx_HallSensor_Init(TIM_HandleTypeDef*, const TIM_HallSensor_InitTypeDef*)	48	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:240:19:HAL_StatusTypeDef HAL_TIMEx_HallSensor_DeInit(TIM_HandleTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:285:13:void HAL_TIMEx_HallSensor_MspInit(TIM_HandleTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:300:13:void HAL_TIMEx_HallSensor_MspDeInit(TIM_HandleTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:315:19:HAL_StatusTypeDef HAL_TIMEx_HallSensor_Start(TIM_HandleTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:369:19:HAL_StatusTypeDef HAL_TIMEx_HallSensor_Stop(TIM_HandleTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:397:19:HAL_StatusTypeDef HAL_TIMEx_HallSensor_Start_IT(TIM_HandleTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:454:19:HAL_StatusTypeDef HAL_TIMEx_HallSensor_Stop_IT(TIM_HandleTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:487:19:HAL_StatusTypeDef HAL_TIMEx_HallSensor_Start_DMA(TIM_HandleTypeDef*, uint32_t*, uint16_t)	32	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:563:19:HAL_StatusTypeDef HAL_TIMEx_HallSensor_Stop_DMA(TIM_HandleTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:625:19:HAL_StatusTypeDef HAL_TIMEx_OCN_Start(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:676:19:HAL_StatusTypeDef HAL_TIMEx_OCN_Stop(TIM_HandleTypeDef*, uint32_t)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:708:19:HAL_StatusTypeDef HAL_TIMEx_OCN_Start_IT(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:795:19:HAL_StatusTypeDef HAL_TIMEx_OCN_Stop_IT(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:870:19:HAL_StatusTypeDef HAL_TIMEx_OCN_Start_DMA(TIM_HandleTypeDef*, uint32_t, const uint32_t*, uint16_t)	32	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1008:19:HAL_StatusTypeDef HAL_TIMEx_OCN_Stop_DMA(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1098:19:HAL_StatusTypeDef HAL_TIMEx_PWMN_Start(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1148:19:HAL_StatusTypeDef HAL_TIMEx_PWMN_Stop(TIM_HandleTypeDef*, uint32_t)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1180:19:HAL_StatusTypeDef HAL_TIMEx_PWMN_Start_IT(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1266:19:HAL_StatusTypeDef HAL_TIMEx_PWMN_Stop_IT(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1341:19:HAL_StatusTypeDef HAL_TIMEx_PWMN_Start_DMA(TIM_HandleTypeDef*, uint32_t, const uint32_t*, uint16_t)	32	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1479:19:HAL_StatusTypeDef HAL_TIMEx_PWMN_Stop_DMA(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1570:19:HAL_StatusTypeDef HAL_TIMEx_OnePulseN_Start(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1619:19:HAL_StatusTypeDef HAL_TIMEx_OnePulseN_Stop(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1658:19:HAL_StatusTypeDef HAL_TIMEx_OnePulseN_Start_IT(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1713:19:HAL_StatusTypeDef HAL_TIMEx_OnePulseN_Stop_IT(TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1792:19:HAL_StatusTypeDef HAL_TIMEx_ConfigCommutEvent(TIM_HandleTypeDef*, uint32_t, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1848:19:HAL_StatusTypeDef HAL_TIMEx_ConfigCommutEvent_IT(TIM_HandleTypeDef*, uint32_t, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1905:19:HAL_StatusTypeDef HAL_TIMEx_ConfigCommutEvent_DMA(TIM_HandleTypeDef*, uint32_t, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:1954:19:HAL_StatusTypeDef HAL_TIMEx_MasterConfigSynchronization(TIM_HandleTypeDef*, const TIM_MasterConfigTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2015:19:HAL_StatusTypeDef HAL_TIMEx_ConfigBreakDeadTime(TIM_HandleTypeDef*, const TIM_BreakDeadTimeConfigTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2091:19:HAL_StatusTypeDef HAL_TIMEx_RemapConfig(TIM_HandleTypeDef*, uint32_t)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2147:13:void HAL_TIMEx_CommutCallback(TIM_HandleTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2161:13:void HAL_TIMEx_CommutHalfCpltCallback(TIM_HandleTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2176:13:void HAL_TIMEx_BreakCallback(TIM_HandleTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2209:22:HAL_TIM_StateTypeDef HAL_TIMEx_HallSensor_GetState(const TIM_HandleTypeDef*)	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2224:29:HAL_TIM_ChannelStateTypeDef HAL_TIMEx_GetChannelNState(const TIM_HandleTypeDef*, uint32_t)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2253:6:void TIMEx_DMACommutationCplt(DMA_HandleTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2272:6:void TIMEx_DMACommutationHalfCplt(DMA_HandleTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2292:13:void TIM_DMADelayPulseNCplt(DMA_HandleTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2342:13:void TIM_DMAErrorCCxN(DMA_HandleTypeDef*)	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:2387:13:void TIM_CCxNChannelCmd(TIM_TypeDef*, uint32_t, uint32_t)	32	static

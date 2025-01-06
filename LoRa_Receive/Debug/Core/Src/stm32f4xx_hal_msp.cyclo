@@ -2,5 +2,7 @@
 ../Core/Src/stm32f4xx_hal_msp.c:63:6:void HAL_MspInit()	1
 ../Core/Src/stm32f4xx_hal_msp.c:88:6:void HAL_SPI_MspInit(SPI_HandleTypeDef*)	2
 ../Core/Src/stm32f4xx_hal_msp.c:126:6:void HAL_SPI_MspDeInit(SPI_HandleTypeDef*)	2
-../Core/Src/stm32f4xx_hal_msp.c:156:6:void HAL_UART_MspInit(UART_HandleTypeDef*)	2
-../Core/Src/stm32f4xx_hal_msp.c:193:6:void HAL_UART_MspDeInit(UART_HandleTypeDef*)	2
+../Core/Src/stm32f4xx_hal_msp.c:156:6:void HAL_TIM_Base_MspInit(TIM_HandleTypeDef*)	2
+../Core/Src/stm32f4xx_hal_msp.c:179:6:void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef*)	2
+../Core/Src/stm32f4xx_hal_msp.c:201:6:void HAL_UART_MspInit(UART_HandleTypeDef*)	2
+../Core/Src/stm32f4xx_hal_msp.c:238:6:void HAL_UART_MspDeInit(UART_HandleTypeDef*)	2

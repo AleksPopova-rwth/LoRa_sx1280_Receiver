@@ -1,10 +1,10 @@
-14:07:36 **** Incremental Build of configuration Debug for project LoRa_Receive ****
+00:12:05 **** Incremental Build of configuration Debug for project LoRa_Receive ****
 make -j8 all 
 arm-none-eabi-size  LoRa_Receive.elf 
    text	   data	    bss	    dec	    hex	filename
-  37080	    472	   2072	  39624	   9ac8	LoRa_Receive.elf
+  39768	    472	   2144	  42384	   a590	LoRa_Receive.elf
 Finished building: default.size.stdout
  
 
-14:07:36 Build Finished. 0 errors, 0 warnings. (took 371ms)
+00:12:05 Build Finished. 0 errors, 0 warnings. (took 182ms)
 

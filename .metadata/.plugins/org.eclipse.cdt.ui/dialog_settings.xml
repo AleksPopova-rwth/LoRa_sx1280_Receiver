@@ -14,4 +14,7 @@
 	</section>
 	<section name="RenameInformationPopup">
 	</section>
+	<section name="CResourceRenameRefactoringInputPage">
+		<item key="updateReferences" value="true"/>
+	</section>
 </section>
